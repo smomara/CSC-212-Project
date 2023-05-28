@@ -11,17 +11,12 @@ The goal of this project is to develop a context-free grammar for American Engli
 3. Implementing a parser using Java/Python/C++ to parse sentences based on the context-free grammar and construct a parse tree.
 4. Testing the context-free grammar by generating random sentences and verifying their validity in American English.
 
-Extra credit extensions to the project may include developing a language model based on the context-free grammar and incorporating semantic information into the grammar for generating more meaningful sentences.
-
 ## Project Structure
 
 The repository is structured as follows:
 ```markdown
 |- src/         # Source code directory
 |  |- parser.py # Implementation of the parser in Python
-|
-|- tests/       # Test cases directory
-|  |- test1.txt # Example test case file
 |
 |- README.md    # Project documentation (you are here)
 ```
